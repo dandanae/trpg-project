@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[99],{332:function(n,t,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/macro_title_card",function(){return _(3671)}])},3671:function(n,t,_){"use strict";_.r(t);var u=_(7369),c=_(2364);let e=()=>(0,c.tZ)(u.OC,{});t.default=e}},function(n){n.O(0,[774,888,179],function(){return n(n.s=332)}),_N_E=n.O()}]);

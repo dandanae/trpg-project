@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[474],{2130:function(n,u,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/macro_dice",function(){return _(3315)}])},3315:function(n,u,_){"use strict";_.r(u);var t=_(7369),c=_(2364);let e=()=>(0,c.tZ)(t.Ur,{});u.default=e}},function(n){n.O(0,[774,888,179],function(){return n(n.s=2130)}),_N_E=n.O()}]);

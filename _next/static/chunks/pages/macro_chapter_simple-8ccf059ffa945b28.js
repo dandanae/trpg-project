@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[264],{251:function(n,_,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/macro_chapter_simple",function(){return t(2042)}])},2042:function(n,_,t){"use strict";t.r(_);var u=t(7369),c=t(2364);let e=()=>(0,c.tZ)(u.rc,{});_.default=e}},function(n){n.O(0,[774,888,179],function(){return n(n.s=251)}),_N_E=n.O()}]);
