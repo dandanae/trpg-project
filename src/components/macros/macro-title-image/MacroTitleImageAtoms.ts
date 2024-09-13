@@ -1,0 +1,20 @@
+import { atom } from 'jotai'
+
+export const tiPrimaryColor = atom<string>('#ffffff')
+export const tiSecondaryColor = atom<string>('#6e635f')
+export const tiColor = atom<string>('#b3b3b3')
+
+export const tiTitle = atom<string>('시나리오 제목')
+export const tiWriter = atom<string>('w.시나리오 저자')
+export const tiKpcName = atom<string>('KPC 이름')
+export const tiPcName = atom<string>('PC 이름')
+export const tiComment = atom<string>('시나리오를 대표하는 한 줄')
+export const tiHeaderImageUrl = atom<string>('https://i.imgur.com/blFeoNd.png')
+export const tiHeaderWidth = atom<number>(299)
+export const tiHeaderHeight = atom<number>(122)
+export const tiDividedImageUrl = atom<string>('https://i.imgur.com/AiLDJ71.png')
+export const tiDividedWidth = atom<number>(136)
+export const tiDividedHeight = atom<number>(25)
+export const tiFooterImageUrl = atom<string>('https://i.imgur.com/rq4njON.png')
+export const tiFooterWidth = atom<number>(298)
+export const tiFooterHeight = atom<number>(91)

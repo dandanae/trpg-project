@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "문의 테스트",
+    "description": "문의 테스트입니다 :)",
+    "status": "completed",
+    "deniedReason": "",
+    "time": "2024-08-11 00:06:59"
+  },
+  {
+    "id": 2,
+    "title": "문의 테스트 2",
+    "description": "문의 테스트입니다 :) 2",
+    "status": "unconfirmed",
+    "deniedReason": "",
+    "time": "2024-08-17 14:40:44"
+  }
+]

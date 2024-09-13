@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import 'font.css';
+
+root {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body {
+  font-family: 'SUIT Variable', sans-serif;
+  @apply bg-cwhite text-black outline-primary;
+}
+
+.ReactModal__Overlay {
+  opacity: 0;
+  transition: opacity 500ms ease-in-out;
+}
+
+.ReactModal__Overlay--after-open {
+  opacity: 1;
+}
+
+.ReactModal__Overlay--before-close {
+  opacity: 0;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox  */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
